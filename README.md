@@ -1,7 +1,8 @@
 # Learning Large Language Model
 Compilation of notebooks, codes, projects, etc. of my attempts to learn Large Language Model
 
-## Exploration (can be one or a combination of tools)
+## Exploration 
+Note: can be one or a combination of tools
 | Tools | Datasets | Model | Code |
 | -- | -- | -- | -- |
 | A | A | A | A |
